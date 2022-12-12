@@ -190,6 +190,11 @@ footer .email-link:hover {
     font-size: 26px;
   }
 
+  .hero p {
+    line-height: 30px;
+    font-size: 15px;
+  }
+
   .content {
     text-align: center;
     padding: 0;

@@ -196,6 +196,8 @@ footer .email-link:hover {
   }
   .btn-branding {
     margin-top: 2;
+    background: var(--tertiary-color);
+    color: var(--branding-color);
   }
   .content {
     text-align: center;
